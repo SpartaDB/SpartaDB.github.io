@@ -3,16 +3,9 @@ text-align: center
 }
 
 .background {
-color: black;
+color: white;
 }
 
-.body {
-color: black
-text-align: center
-}
-
-.bg-gray-dark
-
-.Paragraphs {
-text-align: center
+body {
+text-align: center;
 }
